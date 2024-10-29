@@ -1,0 +1,26 @@
+
+en
+config t
+ip dhcp pool dhcpvlan10
+dns-server 180.16.16.10
+end
+
+config t
+ip dhcp pool dhcpvlan20
+dns-server 180.16.16.10
+end
+
+config t
+ip dhcp pool dhcpvlan30
+dns-server 180.16.16.10
+end
+
+config t
+ip dhcp pool dhcpvlan40
+dns-server 180.16.16.10
+end
+
+config t
+ip dhcp pool dhcpvlan50
+dns-server 180.16.16.10
+end
